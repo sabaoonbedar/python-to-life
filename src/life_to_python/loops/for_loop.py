@@ -27,3 +27,6 @@ list_of_tupples =[(2,4),(4,4)]
 
 for i in list_of_tupples:
     print(i[0])
+
+
+
